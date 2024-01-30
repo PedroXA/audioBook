@@ -21,7 +21,7 @@ O audiobook possui 10 faixas, cada uma com duração aproximada de 30 minutos. A
 * CSS
 * JavaScript
 
-## Para baixar o projeto use o comando abaixo no terminal:
+Para baixar o projeto use o comando abaixo no terminal:
 ```bash
   git clone https://github.com/PedroXA/audioBook
 ```
