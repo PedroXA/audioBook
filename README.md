@@ -21,6 +21,11 @@ O audiobook possui 10 faixas, cada uma com duração aproximada de 30 minutos. A
 * CSS
 * JavaScript
 
+## Como usar ?
+```bash
+  git clone https://github.com/PedroXA/audioBook
+```
+
 ## Conclusão:
 
 > Este audiobook é uma forma de apreciar a obra de Machado de Assis de forma acessível e conveniente. 
